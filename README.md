@@ -1,4 +1,4 @@
-# Timeless (developement discontinued)
+# Timeless (development discontinued)
 
 Flutter app for time management
 
